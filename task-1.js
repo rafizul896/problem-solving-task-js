@@ -15,4 +15,4 @@ const maleNames = peoples
   .map((person) => person.name);
 
 // Print the final result
-console.log("Filtered male names: ", maleNames);
+console.log(maleNames);
