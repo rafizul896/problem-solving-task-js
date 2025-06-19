@@ -50,8 +50,12 @@ Problem Solving:
 
 
 
-8. Task: Unique Values
+7. Task: Unique Values
 
 
 
 -Create an array of numbers with some duplicate values. Write a function to filter out the duplicate values and return a new array with only unique numbers. Print the result.
+
+8 Task: Advanced Sorting
+
+-Create an array of objects representing students with 'name' and 'grades' properties. Write a function to sort the students by average grade in descending order.
